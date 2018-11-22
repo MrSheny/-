@@ -1,1 +1,12 @@
+卸载MySQL一定要按下面的网址步骤卸载干净，要不然新的mysql安装会报错。。。
+https://www.cnblogs.com/xuyatao/p/7999446.html
+https://blog.csdn.net/z13615480737/article/details/78906598
+https://blog.csdn.net/z13615480737/article/details/78906551
+https://blog.csdn.net/zhaoyong2008bj/article/details/78432101?utm_source=blogxgwz6
 
+idea jdk 版本修改：
+https://www.cnblogs.com/hkgov/p/8074085.html
+上面修改完以后自己电脑上的，java_HOME 即环境变量也要修改，（但是如果安装有1.8版本的jdk 就算修改java_home 配置也不会生效 安装版JDK后，（直接把1.8卸载掉）或者百度修改环境变量，也无法生效的原因和解决办法）
+和tomcat 上的版本一致要不然会包1099 端口被占用错误。
+
+再不行换一下tomcat 亲测可以
